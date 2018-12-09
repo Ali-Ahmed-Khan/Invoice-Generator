@@ -1,0 +1,177 @@
+.navbar-brand {
+  color: #C3073f !important;
+  font-size: 1.5rem;
+  border: 2px dotted #434e50;
+  padding: 0.5% 0.9%
+}
+
+.header-button {
+  margin-left: 82%;
+}
+
+.bg-color {
+  background-color: #161616 !important
+}
+
+.nav-btn-clr {
+  color: #C3073f;
+  border: 2px solid #4e4e50;
+}
+
+.nav-btn-clr:hover {
+  background-color: #161616;
+  border: 2px solid #4e4e50;
+  color: #434e50;
+}
+
+.inr-div {
+  padding: 0% 5%;
+  background-color: #edf5e1;
+}
+
+.otr-div {
+  background-color: #1A1A1D;
+}
+
+/* Main Inputs */
+
+.in-nm {
+  width: 38%;
+  padding-top: 25%;
+  margin-left: 25%;
+}
+
+.in-to {
+  width: 38%;
+  padding-top: 10%;
+  margin-left: 25%;
+}
+
+.in-frm {
+  width: 38.5%;
+  padding-top: 10%;
+  margin-left: 25%;
+}
+
+.frm-h2 {
+  padding-top: 5%;
+  text-align: center;
+  color: #747474;
+}
+
+/* Right col inputs */
+
+.lb-dt {
+  margin-left: 38%;
+  padding-top: 15%;
+  padding-bottom: 2.5%;
+  color: #747474;
+  font-size: 1.2rem;
+}
+
+.in-dt {
+  width: 35%;
+  margin-left: 38%;
+}
+
+.in-pm {
+  width: 35%;
+  margin-left: 38%;
+  padding-top: 10.7%;
+}
+
+.in-du {
+  width: 35%;
+  margin-left: 38%;
+  padding-top: 10.7%;
+}
+
+.in-bl {
+  width: 50%;
+  margin-left: 24.4%;
+  padding-top: 9%;
+}
+
+/* Second Section */
+
+.otr-div2 {
+  background-color: #C3073f;
+}
+
+.sb-sc {
+  background-color: #1A1A1D;
+}
+
+.in-sbt {
+  padding-top: 10%;
+  margin-left: 85%;
+  width: 39%;
+}
+
+.in-tx {
+  margin-top: 15%;
+  margin-left: 28%;
+  width: 39%;
+}
+
+.in-ttl {
+  padding-top: 15%;
+  margin-left: 85%;
+  width: 39%;
+}
+
+.in-wif {
+  margin-top: 30%;
+  width: 39%;
+  margin-left: 37%;
+}
+
+.in-perm {
+  margin-top: 20%;
+  width: 100%;
+  margin-left: 50%;
+}
+
+.in-trmc {
+  margin-top: 10%;
+  width: 100%;
+  margin-left: 50%;
+}
+
+.otr-div3 {
+  background-color: #1A1A1D;
+}
+
+.inr-div2 {
+  background-color: #434e50;
+  border: 7px solid #747474;
+  padding: 1%;
+  color: #C3073f;
+  margin-top: 10%;
+
+}
+
+#button1 {
+  width: 26%;
+  padding: 2%;
+  text-align: center;
+  margin-left: 23%;
+  background-color: #1A1A1D;
+  color: #C3073f;
+}
+
+#button2 {
+  width: 26%;
+  padding: 2%;
+  margin-left: 43%;
+  background-color: #1A1A1D;
+  color: #C3073f;
+}
+
+#button1:hover {
+  color: #747474;
+}
+
+#button2:hover {
+  color: #747474;
+}
