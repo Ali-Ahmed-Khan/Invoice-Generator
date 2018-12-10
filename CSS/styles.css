@@ -143,12 +143,12 @@
 }
 
 .inr-div2 {
-  background-color: #434e50;
-  border: 7px solid #747474;
+  background-color: #747474;
+  border: 8px dotted #4e4e50;
   padding: 1%;
   color: #C3073f;
   margin-top: 10%;
-
+  border-radius: 32px;
 }
 
 #button1 {
@@ -157,7 +157,7 @@
   text-align: center;
   margin-left: 23%;
   background-color: #1A1A1D;
-  color: #C3073f;
+  color: #747474;
 }
 
 #button2 {
@@ -165,13 +165,13 @@
   padding: 2%;
   margin-left: 43%;
   background-color: #1A1A1D;
-  color: #C3073f;
+  color: #747474;
 }
 
 #button1:hover {
-  color: #747474;
+  color: #C3073f;
 }
 
 #button2:hover {
-  color: #747474;
+  color: #C3073f;
 }
